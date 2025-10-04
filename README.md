@@ -67,3 +67,10 @@ All content is of **human authorship**.
 
 > “Ler o universo é também ler a nós mesmos.”  
 > *"Reading the universe is also reading ourselves."*
+
+
+Autoria e Direitos
+
+Todas as narrativas e conteúdos do projeto Cosmic Bibliotherapy foram criados originalmente para o NASA Space Apps Challenge 2025, de autoria de Lucélia Elizabeth Paiva.
+As informações científicas utilizadas (como dados astronômicos e imagens cósmicas) são de domínio público, disponibilizadas pela NASA e suas agências parceiras.
+O conteúdo literário e poético apresentado aqui é original, não derivado de textos de terceiros, e integra a metodologia autoral que une ciência, literatura e saúde mental.
